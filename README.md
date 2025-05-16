@@ -3,7 +3,7 @@
 - 🏖 Eu moro no [**Rio de Janeiro**](http://visit.rio/)
 - 👨‍💼 Eu sou uma **Escritora** 
 - 🏡 Atualmente estou trabalhando em **Julgamento - Livro #3** __(Série Lua de Prata)__
-- 👯 Participei em projetos como [**Antologia Desafia-se (Editora Qualis)**](https://https://amzn.to/4jV4zbB), [**Antologias UniVersos Entrelaçados** (Autora e Idealizadora)](https://chat.whatsapp.com/JHwwCEaQVKo3NkHFo9sAL6), [**Liga do 7 (Página de Crônicas)**](https://www.facebook.com/ligadossete)
+- 👯 Participo/ei em projetos como [**Antologia Desafia-se**](https://https://amzn.to/4jV4zbB), [**Antologias UniVersos Entrelaçados**](https://chat.whatsapp.com/JHwwCEaQVKo3NkHFo9sAL6), [**Liga do 7**](https://www.facebook.com/ligadossete)
 - 🌱 Tenho estudado sobre **...** and [**Escritores Admiráveis (Lilian Cardoso)**](https://www.instagram.com/escritoresadmiraveis?igsh=MXU1cWp5d29rc2lscQ==), [**Marketing para Escritores (Dany Sakugawa)**](https://www.instagram.com/dany.sakugawa?igsh=MTYxd213ZWthMHlwMg==)
 - 📚 Famosa **pelos `plot twists` em meus livros**
 
