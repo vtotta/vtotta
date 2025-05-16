@@ -4,7 +4,7 @@
 - 👨‍💼 Eu sou uma **Escritora** 
 - 🏡 Atualmente estou trabalhando em **Julgamento - Livro #3** __(Série Lua de Prata)__
 - 👯 Participo/ei em projetos como [**Antologia Desafia-se**](https://https://amzn.to/4jV4zbB), [**Antologias UniVersos Entrelaçados**](https://chat.whatsapp.com/JHwwCEaQVKo3NkHFo9sAL6), [**Liga do 7**](https://www.facebook.com/ligadossete)
-- 🌱 Tenho estudado sobre **...** and [**Escritores Admiráveis (Lilian Cardoso)**](https://www.instagram.com/escritoresadmiraveis?igsh=MXU1cWp5d29rc2lscQ==), [**Marketing para Escritores (Dany Sakugawa)**](https://www.instagram.com/dany.sakugawa?igsh=MTYxd213ZWthMHlwMg==)
+- 🌱 O que tenho estudado [**Escritores Admiráveis**](https://www.instagram.com/escritoresadmiraveis?igsh=MXU1cWp5d29rc2lscQ==), [**Marketing para Escritores**](https://www.instagram.com/dany.sakugawa?igsh=MTYxd213ZWthMHlwMg==)
 - 📚 Famosa **pelos `plot twists` em meus livros**
 
 <div>
