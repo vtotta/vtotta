@@ -9,7 +9,7 @@
 
 <div>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vtotta&show_icons=true&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vtotta&layout=compact&langs_count=8"/> 
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vtotta&layout=compact&langs_count=0"/> 
 </div>
 
 <h3>📫 How to reach me:</h3>
