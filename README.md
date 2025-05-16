@@ -1,11 +1,11 @@
-### Hi there, I'm [Val](https://www.vtotta.com.br)
+### Olá, eu sou a [Val](https://www.vtotta.com.br)
 
-- 🏖 I live in [**Rio de Janeiro**](http://visit.rio/)
-- 👨‍💼 I'm a **Book Writer** 
-- 🏡 Currently working at [**www.vtotta.com.br**](https://www.vtotta.com.br)
-- 🌱 I’ve been learning **...** and [**...**](https://#)
-- 👯 Collaborating on [**...**](https://#), [**...**]([#](https://#)), [**...**]([#](https://#)), [**...**](https://#) and **#PRIVATES PROJECTS#**
-- 🥧 Famous for ...
+- 🏖 Eu moro no [**Rio de Janeiro**](http://visit.rio/)
+- 👨‍💼 Eu sou uma **Escritora** 
+- 🏡 Atualmente estou trabalhando em **Julgamento - Livro #3** __(Série Lua de Prata)__
+- 👯 Participei em projetos como [**...**](https://#), [**...**]([#](https://#)), [**...**]([#](https://#)), [**...**](https://#) and **#PRIVATES PROJECTS#**
+- 🌱 Tenho estudado sobre **...** and [**...**](https://#)
+- 🥧 Famosa **pelos plot twists em meus livros**
 
 <div>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vtotta&show_icons=true&include_all_commits=true&count_private=true"/>
