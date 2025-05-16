@@ -14,7 +14,7 @@
     -->
 </div>
 
-<h3>📫 How to reach me:</h3>
+<h3>📫 Como entrar em contato:</h3>
 
 <p align="left">
     <a href="https://www.vtotta.com.br" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-vtotta.com.br-pink?label&style=social&logo=brave"></a> 
